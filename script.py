@@ -12,12 +12,10 @@ import re, sys, regex
 
 class Scraper :
 
-    def __init__(self, url="https://www.1mg.com/drugs/dolo-650-tablet-74467", headless = False) -> None:
+    def __init__(self, url="https://www.1mg.com/drugs/dolo-650-tablet-74467") -> None:
 
         self.options = Options()
         self.options.add_argument("--disable-notifications")
-        if headless :
-            self.options.add_argument("--headless") 
         
         self.driver = webdriver.Chrome(options=self.options)
 

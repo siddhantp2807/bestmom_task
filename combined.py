@@ -2,7 +2,7 @@ from db_manager import Manager
 import json
 from script import Scraper
 
-scrape = Scraper(headless=True)
+scrape = Scraper()
 scrape.close_popups()
 data = scrape.combine_all()
 
