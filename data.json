@@ -1,0 +1,56 @@
+{
+    "name": {
+        "brand": "Dolo",
+        "dosage_form": "Tablet",
+        "number_in_brand": [
+            "650"
+        ]
+    },
+    "active_drug": [
+        "Paracetamol (650mg)"
+    ],
+    "synonyms": [
+        "Acetaminophen"
+    ],
+    "cost": {
+        "price": "\u20b921.75",
+        "quantity": "15 tablets in 1 strip"
+    },
+    "alternate_brands": [
+        {
+            "name": "PUC 650 Tablet",
+            "price": "1.73",
+            "unit": "tablet",
+            "currency": "\u20b9"
+        },
+        {
+            "name": "Paracip 650 Tablet",
+            "price": "1.8",
+            "unit": "tablet",
+            "currency": "\u20b9"
+        },
+        {
+            "name": "Sumo L 650 Tablet",
+            "price": "1.87",
+            "unit": "tablet",
+            "currency": "\u20b9"
+        },
+        {
+            "name": "Xykaa Rapid 650 Tablet",
+            "price": "1.9",
+            "unit": "tablet",
+            "currency": "\u20b9"
+        },
+        {
+            "name": "Pyrigesic 650 Tablet",
+            "price": "1.9",
+            "unit": "tablet",
+            "currency": "\u20b9"
+        }
+    ],
+    "side_effects": [
+        "Stomach pain",
+        "Nausea",
+        "Vomiting"
+    ]
+}
